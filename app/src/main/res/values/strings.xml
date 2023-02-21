@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Milagrosoapp</string>
+    <string name="encontrarEnfermedades">Buscar Enfermedades!</string>
+    <string name="signos">No ha seleccionado ninguna enfermedad</string>
+
+    <string-array name="tiposEnfermedades">
+        <item>Diabetes</item>
+        <item>Hipertension</item>
+        <item>Insuficiencia cardiaca</item>
+    </string-array>
+
+</resources>
